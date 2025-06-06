@@ -1,17 +1,19 @@
 <h1 align="center">¡Hola! 👋 Soy Hendrix De Jesús</h1>
 <p align="center">
-  Desarrollador de software | Amante del backend limpio | Explorando el mundo fintech 🏦
+  Desarrollador de software | Apasionado del backend limpio | Explorando el mundo fintech 🏦
 </p>
 
 ---
 
 ### 🚀 Tecnologías que domino
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+<p align="center">
+  <img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width="100" alt="C#" title="C#"/>
+  <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="100" alt=".NET" title=".NET"/>
+  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="100" alt="Java" title="Java"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" alt="JavaScript" title="JavaScript"/>
+  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="100" alt="SQL" title="SQL Server"/>
+</p>
 
 ---
 
@@ -40,4 +42,3 @@
 ---
 
 _“Codea como si el que va a mantener tu código fuera un psicópata... que sabe dónde vives”_
-
