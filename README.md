@@ -61,8 +61,9 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlQ7LRalnVQrMDS/giphy.gif" alt="Programando" width="120" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d3FvY3ozYW82cWh4eHRwOHBqOWljOGYzbzVhazAwZG1icTQ3eGU0cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/eGlWh8b2oDeSuFjGM6/giphy.gif" alt="Programando" width="120" />
 </p>
 ---
+
 
 > _“Codea como si el que va a mantener tu código fuera un psicópata… que sabe dónde vives”_
