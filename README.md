@@ -55,18 +55,14 @@
 <p align="center">
   <a href="https://linkedin.com/in/tuUsuario" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-
-
-    
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlQ7LRalnVQrMDS/giphy.gif" alt="Programando" width="120" />
-</p>
   </a>
   <a href="mailto:tuemail@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlQ7LRalnVQrMDS/giphy.gif" alt="Programando" width="120" />
+</p>
 ---
 
 > _“Codea como si el que va a mantener tu código fuera un psicópata… que sabe dónde vives”_
