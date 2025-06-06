@@ -63,9 +63,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d3FvY3ozYW82cWh4eHRwOHBqOWljOGYzbzVhazAwZG1icTQ3eGU0cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/eGlWh8b2oDeSuFjGM6/giphy.gif" alt="Programando" width="120" />
 </p>
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejVnaTcxenhsM2c3dXU5ZzE1NDllNjlxZnVtd3Bpbjg3ZThzb2NsdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hvEdKpliYKcY0s4Pak/giphy.gif" alt="Programando" width="120" />
-</p>
+
 ---
 
 
