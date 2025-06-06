@@ -1,4 +1,9 @@
 <h1 align="center">¡Hola! 👋 Soy Hendrix De Jesús</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlQ7LRalnVQrMDS/giphy.gif" alt="Programando" width="200" />
+</p>
+
 <p align="center">
   Desarrollador de Software | Backend ⚙️ | Apasionado por la automatización y DevOps 🚀
 </p>
@@ -8,8 +13,8 @@
 <!-- Animación CSS para los logos -->
 <style>
   .tech-logo {
-    margin: 10px;
-    width: 60px;
+    margin: 8px;
+    width: 40px;
     transition: transform 0.3s ease;
     animation: pulse 3s infinite;
   }
