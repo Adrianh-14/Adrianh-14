@@ -50,8 +50,8 @@
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HendrixDeJesus&show_icons=true&theme=tokyonight" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HendrixDeJesus&layout=compact&theme=tokyonight" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Adrianh-14&show_icons=true&theme=tokyonight" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrianh-14&layout=compact&theme=tokyonight" width="300"/>
 </p>
 
 ---
@@ -59,10 +59,10 @@
 ### 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/tuUsuario" target="_blank">
+  <a href="https://linkedin.com/in/adrian-hendrix-de-jesus-rubio-37112523a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:tuemail@gmail.com">
+  <a href="mailto:adrien1138@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
